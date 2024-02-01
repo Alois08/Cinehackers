@@ -95,7 +95,7 @@ def onglet0():
     st.markdown("<p class='big-font'>CINETFLIX A L'AIR DU DIGITAL</p>", unsafe_allow_html=True)
     # Sous-titre
     st.markdown("<p class='medium-font'>Le cinéma Cinetflix passe le cap du numérique !!!</p>", unsafe_allow_html=True)
-    old_film = "https://drive.google.com/uc?export=view&id=1UofoYQzuXI_-XA01VxtnDkrNUGi0IYBr"
+    old_film = "DALLE_2023-11-28_15.56.08_-_A_cinema_transitioning_from_traditional_to_digital_format._The_scene_includes_a_classic_film_projector_and_film_reels_on_one_side_symbolizing_the_old.webp"
     url2 = 'https://drive.google.com/uc?export=view&id=1e57cwl_8Pv_733qiClKvLpF_QVA2FvZP'
     st.image(old_film, width=700)
     st.markdown('<p class="small-font">Situé dans la Creuse, Cinetflix franchit une nouvelle étape  technologique. Mandaté par Cinetflix, CineHackers vous propose une application de recommandation de films ainsi que quelques indicateurs sur la base de données mise à disposition.</p>', unsafe_allow_html=True)
